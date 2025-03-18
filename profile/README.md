@@ -1,4 +1,4 @@
-# Sorena: AI-Integrated Legal & Cybersecurity
+# Sorena: AI-Powered Legal & Cybersecurity
 
 <p align="center">
   <i>Transforming Legal and Cybersecurity Governance, Risk, and Compliance (GRC) with AI.</i>
